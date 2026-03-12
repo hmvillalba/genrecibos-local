@@ -1,0 +1,5 @@
+node_modules/
+datos-empresa.xlsx
+.env
+SistemaRecibos.exe
+*.pdf
